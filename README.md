@@ -49,3 +49,4 @@
 
 [구글](https://google.com, "검색 사이트")
 
+![컴퓨터 에러](./images/computer_error.png)
